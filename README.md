@@ -1,4 +1,4 @@
-# Exercícios de Lógica de Programação - JavaScript (Exercícios 8 a 10)
+# Exercícios de Lógica de Programação - JavaScript Aula 6
 
 Este repositório contém as soluções para os exercícios 8 a 10 de lógica de programação, parte da formação Vem Ser Tech da Ada e iFood.
 
@@ -16,8 +16,5 @@ Este repositório contém as soluções para os exercícios 8 a 10 de lógica de
 
 Para visualizar e testar os resultados dos exercícios, visite o seguinte CodePen:
 
-[CodePen - Lógica de Programação JavaScript (Exercícios 8 a 10)](https://codepen.io/lucwed/pen/yLZzgod)
+[CodePen - Lógica de Programação JavaScript Aula 6](https://codepen.io/lucwed/pen/yLZzgod)
 
-## Contato
-
-Para mais informações ou dúvidas, entre em contato com Lucas Wenderson através do [CodePen](https://codepen.io/lucwed).
