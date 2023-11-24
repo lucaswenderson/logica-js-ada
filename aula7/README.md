@@ -18,4 +18,4 @@ Este repositório contém as soluções para os exercícios da aula 7 de lógica
 
 Para visualizar e testar os resultados dos exercícios, visite o seguinte CodePen:
 
-[CodePen - Lógica de Programação JavaScript (Aula 7)](https://codepen.io/lucwed/pen/jOdZYKo)
+[CodePen - Lógica de Programação JavaScript (Aula 7)](https://codepen.io/lucwed/pen/RwvJKVv)
